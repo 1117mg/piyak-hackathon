@@ -1,4 +1,4 @@
-# 🎉 Mailper 🎉
+# 📧 Mailper 📧
 
 개인 맞춤형 AI 메일 비서
 
